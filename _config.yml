@@ -21,8 +21,8 @@ author: serverinspector
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - : "nothing"
+  #Resources:
+  #  - : "nothing"
   Author's home: ""
 
 ################
